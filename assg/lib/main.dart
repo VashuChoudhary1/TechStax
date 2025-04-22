@@ -13,7 +13,7 @@ void main() async {
 
   // Initialize Supabase
   await Supabase.initialize(
-    url: 'https://your-project.supabase.co',
+    url: "https://bcngcauljxmksewukvbd.supabase.co",
     anonKey:
         "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJjbmdjYXVsanhta3Nld3VrdmJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUxMzc5NjcsImV4cCI6MjA2MDcxMzk2N30.GwCaMq9gozFeY_rBJKTdud5FgJnS-kwsP-RaL1Zw1TI",
   );
